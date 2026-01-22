@@ -11,7 +11,7 @@
 
 ## Технологии
 
-- React 19 #
+- React 19
 - Vite
 - CSS3 Flexbox
 - JavaScript
